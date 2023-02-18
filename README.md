@@ -1,6 +1,8 @@
 ## 👋 hi im joy 
 
-javascript + python
++ javascript
++ python
++ discord.js
 
 ## contact
 telegram - @hookuhs
