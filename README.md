@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Joy.
 + HTML
-+ Javacript                         ![joys GitHub stats](https://github-readme-stats.vercel.app/api?username=joylolxyz&show_icons=true&theme=transparent)
++ Javacript                                                                   ![joys GitHub stats](https://github-readme-stats.vercel.app/api?username=joylolxyz&show_icons=true&theme=transparent)
 + Python 
 
 
