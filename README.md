@@ -1,7 +1,6 @@
 ## 👋 hi im joy 
 
 javascript + python
-___
 
 ## contact
 telegram - @hookuhs
